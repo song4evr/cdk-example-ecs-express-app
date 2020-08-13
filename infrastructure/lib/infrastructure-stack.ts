@@ -1,5 +1,5 @@
 import cdk = require("@aws-cdk/core");
-import ecr = require("@aws-cdk/aws-ecr");
+//import ecr = require("@aws-cdk/aws-ecr");
 import ecs = require("@aws-cdk/aws-ecs");
 import ec2 = require("@aws-cdk/aws-ec2");
 import ecsPatterns = require("@aws-cdk/aws-ecs-patterns");
